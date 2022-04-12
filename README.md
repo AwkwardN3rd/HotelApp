@@ -1,2 +1,2 @@
 # HotelApp
-A hotel application using MySQL and PHP.
+As a class project we created a hotel application from scratch using PHP and MySQL. In this application the user has the ablility to login to their specific account, book reservation, and check availability on a specific dates. The administration has access to all the reservations and has the ability to create new rooms as necessary. Currently this app is just the bare bone code without any css but it is a WIP.
